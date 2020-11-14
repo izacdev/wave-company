@@ -14,19 +14,19 @@ import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import RoomService from '@material-ui/icons/RoomService';
-import Info from '@material-ui/icons/InfoRounded'
+import Info from '@material-ui/icons/InfoRounded';
 import Account from '@material-ui/icons/AccountCircleRounded';
 import Contact from '@material-ui/icons/ContactSupportRounded';
-import Project from '@material-ui/icons/AssignmentIndRounded'
+import Project from '@material-ui/icons/AssignmentIndRounded';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import InboxIcon from '@material-ui/icons/MoveToInbox';
-import FaceBook from '@material-ui/icons/Facebook'
-import WhatsApp from '@material-ui/icons/WhatsApp'
-import Instagram from '@material-ui/icons/Instagram'
-import Youtube from '@material-ui/icons/YouTube'
-import Call from '@material-ui/icons/Call'
+import FaceBook from '@material-ui/icons/Facebook';
+import WhatsApp from '@material-ui/icons/WhatsApp';
+import Instagram from '@material-ui/icons/Instagram';
+import Youtube from '@material-ui/icons/YouTube';
+import Call from '@material-ui/icons/Call';
 
 const drawerWidth = 240;
 
