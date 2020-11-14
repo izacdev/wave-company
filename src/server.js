@@ -20,5 +20,5 @@ app.get('/', function (req, res) {
   res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 }
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 5000;
 app.listen(port, () => console.log(` server running ${port}`));
